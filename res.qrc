@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icon/delete.png</file>
+    <file>icon/top.png</file>
+    <file>icon/untop.png</file>
+    <file>icon/check.png</file>
+    <file>icon/uncheck.png</file>
+    <file>icon/plus.png</file>
+  </qresource>
+</RCC>
